@@ -5,6 +5,7 @@ This Python script allows you to monitor a specified log file for new entries in
 ## Requirements
 
 - Python 3.x
+- logfile path
 
 ## Usage
 
